@@ -1,0 +1,563 @@
+@media (min-width:320px) and (max-width:575px) {
+
+    .top_right ul li a {
+        font-size: 10px;
+        border-right: 0px;
+    }
+
+    .logo_part {
+        padding: 20px;
+    }
+
+    .logo_part h5 {
+        font-size: 8px;
+        padding-top: 7px;
+        margin-left: 38px;
+    }
+
+    .bg {
+        background: #6baf88;
+    }
+
+    .navbar-toggler-icon {
+        background-image: url(../images/bar.png);
+        cursor: pointer;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler {
+        padding: 5px 6px;
+        font-size: 12px;
+        line-height: 1;
+        border: 1px solid #00ff62;
+        background: #d37373;
+        border-radius: .25rem;
+        transition: box-shadow .15s ease-in-out;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .nav-link {
+        padding: 12px 0px;
+        font-size: 16px;
+    }
+
+    nav ul li a::after {
+        width: 0%;
+        height: 0px;
+    }
+
+    nav ul li a::before {
+        width: 0%;
+        height: 0px;
+    }
+
+    .home_active {
+        color: #fff;
+        background: none;
+    }
+
+    .nav-link:focus,
+    .nav-link:hover {
+        color: #fff;
+        background: none;
+    }
+
+    nav ul li a:hover i {
+        color: #fff;
+    }
+
+    /* navbar part end */
+
+    .uk-navbar-container:not(.uk-navbar-transparent) {
+        background: #3BBDFB;
+        z-index: 11;
+    }
+
+    #particles-js {
+        height: 170px;
+    }
+
+    #particles-js h5 {
+        font-size: 19px;
+        top: 289px;
+        z-index: 0;
+    }
+
+    #particles-js p {
+        font-size: 9px;
+        top: 329px;
+    }
+
+    /* banner part end */
+
+    .latest_theme h5 {
+        font-size: 13px;
+    }
+
+    .latest_theme p {
+        font-size: 9px;
+        padding-top: 4px;
+    }
+
+    .portfolio hr {
+        width: 220px;
+        margin: auto;
+    }
+
+    .latest_design {
+        margin-left: 22px;
+    }
+
+    .slick-dots {
+        left: 22%;
+    }
+
+    .fashion_details .overly {
+        width: 94%;
+        height: 92%;
+    }
+
+    /* form part start */
+
+    .form-control {
+        width: 100%;
+    }
+
+
+    .form-check-input[type="checkbox"] {
+        margin-left: -5px;
+    }
+
+    .form-check-input {
+        margin-left: 189px;
+        background-color: #9ba1aa;
+        margin-right: 10px;
+        margin-bottom: 50px;
+    }
+
+    .form_details span {
+        font-size: 15px;
+    }
+
+    .form_details a {
+        margin-left: 0px;
+    }
+
+    /* form part end */
+
+    .footer_left h5 {
+        font-size: 13px;
+    }
+
+    .footer_right a i {
+        margin-left: 26px;
+    }
+
+    #myBtn {
+        bottom: 111px;
+        right: 16px;
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .justify-content-end {
+        justify-content: center !important;
+    }
+
+    .top_right ul li a {
+        font-size: 10px;
+        border-right: 0px;
+    }
+
+    .logo_part {
+        padding: 20px;
+    }
+
+    .logo_part h5 {
+        font-size: 8px;
+        padding-top: 7px;
+        margin-left: 133px;
+    }
+
+    .bg {
+        background: #6baf88;
+    }
+
+    .navbar-toggler-icon {
+        background-image: url(../images/bar.png);
+        cursor: pointer;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler {
+        padding: 5px 6px;
+        font-size: 12px;
+        line-height: 1;
+        border: 1px solid #00ff62;
+        background: #d37373;
+        border-radius: .25rem;
+        transition: box-shadow .15s ease-in-out;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .nav-link {
+        padding: 12px 0px;
+        font-size: 16px;
+    }
+
+    nav ul li a::after {
+        width: 0%;
+        height: 0px;
+    }
+
+    nav ul li a::before {
+        width: 0%;
+        height: 0px;
+    }
+
+    .home_active {
+        color: #fff;
+        background: none;
+    }
+
+    .nav-link:focus,
+    .nav-link:hover {
+        color: #fff;
+        background: none;
+    }
+
+    nav ul li a:hover i {
+        color: #fff;
+    }
+
+    /* navbar part end */
+
+    .uk-navbar-container:not(.uk-navbar-transparent) {
+        background: #3BBDFB;
+        z-index: 11;
+    }
+
+    #particles-js {
+        height: 170px;
+    }
+
+    #particles-js h5 {
+        font-size: 35px;
+        top: 259px;
+        z-index: 0;
+    }
+
+    #particles-js p {
+        font-size: 12px;
+        top: 300px;
+        padding-top: 5px;
+    }
+
+    /* banner part end */
+
+    .latest_theme h5 {
+        font-size: 18px;
+    }
+
+    .latest_theme p {
+        font-size: 11px;
+        padding-top: 4px;
+    }
+
+    .portfolio hr {
+        width: 220px;
+    }
+
+    .latest_design {
+        margin-left: 0px;
+    }
+
+    .slick-dots {
+        left: 35%;
+    }
+
+    .fashion_details .overly {
+        width: 97%;
+        height: 96%;
+    }
+
+    /* form part start */
+
+    .form-control {
+        width: 100%;
+    }
+
+    .form-check-input[type="checkbox"] {
+        margin-left: -5px;
+    }
+
+    .form-check-input {
+        margin-left: 189px;
+        background-color: #9ba1aa;
+        margin-right: 10px;
+        margin-bottom: 50px;
+    }
+
+    .form_details span {
+        font-size: 15px;
+    }
+
+    .form_details a {
+        margin-left: 0px;
+    }
+
+    /* form part end */
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .top_left ul li {
+        font-size: 12px;
+        margin-right: 9px;
+    }
+
+    .top_right ul li a {
+        font-size: 10px;
+        padding: 6px 7px;
+        border-right: 1px solid #ffffff;
+    }
+
+    .logo_part {
+        padding: 20px;
+    }
+
+    .logo_part h5 {
+        font-size: 8px;
+        padding-top: 7px;
+        margin-left: 133px;
+    }
+
+    .bg {
+        background: #6baf88;
+    }
+
+    .navbar-toggler-icon {
+        background-image: url(../images/bar.png);
+        cursor: pointer;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler {
+        padding: 5px 6px;
+        font-size: 12px;
+        line-height: 1;
+        border: 1px solid #00ff62;
+        background: #d37373;
+        border-radius: .25rem;
+        transition: box-shadow .15s ease-in-out;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .nav-link {
+        padding: 12px 0px;
+        font-size: 16px;
+    }
+
+    nav ul li a::after {
+        width: 0%;
+        height: 0px;
+    }
+
+    nav ul li a::before {
+        width: 0%;
+        height: 0px;
+    }
+
+    .home_active {
+        color: #fff;
+        background: none;
+    }
+
+    .nav-link:focus,
+    .nav-link:hover {
+        color: #fff;
+        background: none;
+    }
+
+    nav ul li a:hover i {
+        color: #fff;
+    }
+
+    /* navbar part end */
+
+    .uk-navbar-container:not(.uk-navbar-transparent) {
+        background: #3BBDFB;
+        z-index: 11;
+    }
+
+    #particles-js {
+        height: 170px;
+    }
+
+    #particles-js h5 {
+        font-size: 35px;
+        top: 259px;
+        z-index: 0;
+    }
+
+    #particles-js p {
+        font-size: 12px;
+        top: 300px;
+        padding-top: 5px;
+    }
+
+    /* banner part end */
+
+    .latest_theme h5 {
+        font-size: 18px;
+    }
+
+    .latest_theme p {
+        font-size: 11px;
+        padding-top: 4px;
+    }
+
+    .portfolio hr {
+        width: 220px;
+    }
+
+    .latest_design {
+        margin-left: 50px;
+    }
+
+    .slick-dots {
+        left: 42%;
+    }
+
+    .fashion_details .overly {
+        width: 92%;
+        height: 90%;
+    }
+
+    /* form part start */
+
+    .form-control {
+        width: 100%;
+    }
+
+    .form-check-input[type="checkbox"] {
+        margin-left: -5px;
+    }
+
+
+    .form-check-input {
+        margin-left: 189px;
+        background-color: #9ba1aa;
+        margin-right: 10px;
+        margin-bottom: 50px;
+    }
+
+    .form_details span {
+        font-size: 15px;
+    }
+
+    .form_details a {
+        margin-left: 0px;
+    }
+
+    /* form part end */
+
+    .footer_left h5 {
+        font-size: 12px;
+        margin-top: 13px;
+    }
+
+    .footer_center h5 {
+        font-size: 14px;
+    }
+
+    .footer_center p {
+        font-size: 10px;
+    }
+
+    .footer_right a i {
+        margin-top: 11px;
+    }
+}
+
+
+@media (min-width:992px) and (max-width:1199px) {
+
+    .top_right ul li a {
+        padding: 6px 12px;
+    }
+
+    #particles-js h5 {
+        font-size: 62px;
+        top: 434px;
+    }
+
+    #particles-js p {
+        color: #3bbdfb;
+        font-size: 16px;
+        top: 548px;
+        left: 137px;
+    }
+
+    .latest_design {
+        margin-left: 20px;
+    }
+
+    .autoplay .prev_arrow {
+        left: 93%;
+    }
+
+    .autoplay .next_arrow {
+        left: 955px;
+    }
+
+    .fashion_details .overly {
+        width: 94%;
+        height: 92%;
+    }
+
+    /* form part start */
+
+    .form-control {
+        width: 100%;
+    }
+
+    .form-check-input[type="checkbox"] {
+        margin-left: -5px;
+    }
+
+    .form-check-input {
+        margin-left: 189px;
+        background-color: #9ba1aa;
+        margin-right: 10px;
+        margin-bottom: 50px;
+    }
+
+    .form_details span {
+        font-size: 15px;
+    }
+
+    .form_details a {
+        margin-left: 0px;
+    }
+
+    /* form part end */
+
+}
